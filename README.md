@@ -15,3 +15,7 @@ python3 main.py
 ```
 
 No third-party dependencies are required.
+
+## Git Challenge
+
+This section was added on the `git-challenge` branch and merged back into `main`.
